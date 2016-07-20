@@ -78,4 +78,4 @@ View(xxx)
 
 # Panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends
 
-# All of the R code needed to reproduce the results (numbers, plots, etc.) in the report
+# All of the R code needed to reproduce the results (numbers, plots, etc.) in the report 
